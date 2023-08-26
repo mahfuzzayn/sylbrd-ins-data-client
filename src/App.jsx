@@ -101,7 +101,7 @@ const App = () => {
                                     ) > 0
                                         ? "text-green-500"
                                         : "text-red-500"
-                                } p-1 rounded-md text-white`}
+                                } p-1 rounded-md`}
                             >
                                 {collegeData.availableSeats.split("=")[1]}
                             </span>
